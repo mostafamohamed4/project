@@ -64,8 +64,8 @@ export default function SimilarProducts() {
 
                 <div className='row g-3'>
                     <Slider {...settings}>
-                        {ProdectList.slice(20, 32).map((items) => {
-                            return <div key={items._id} className='col-lg-3 px-2 col-md-12'>
+                        {ProdectList.slice(20, 32).map((items , index) => {
+                            return <div key={index} className='col-lg-3 px-2 col-md-12'>
                                 <div className="card">
                                     <img src={items.thumbnail} height={320} className="w-100 p-2 rounded-4" alt="..." />
                                     <div className="card-body">

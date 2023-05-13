@@ -72,7 +72,7 @@ export default function Shopping() {
 
 
                             </div>
-                            <div className='col-lg-7 col-md-12 px-5'>
+                            <div className='col-lg-7 col-md-12'>
                                 <div className='text'>
                                     <h3 className='text-main fw-bold'>{listprodectDetials?.title}</h3>
                                     <p className='mt-2 mb-1 main fw-bolder'>{listprodectDetials?.category?.name?.split(' ').slice(0, 1).join(' ')}</p>
