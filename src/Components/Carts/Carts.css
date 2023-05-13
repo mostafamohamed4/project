@@ -1,0 +1,38 @@
+.price-color {
+  color: #542E90;
+}
+
+.price-bg {
+  background-color: #542E90;
+}
+
+.price-bg:hover {
+  background-color: #542E90;
+}
+
+.btn-bg {
+  background-color: #fff100;
+}
+
+.btn-bg:hover {
+  background-color: #fff100;
+}
+
+.modal .modal-body {
+  overflow: auto;
+}
+.modal .modal-dialog {
+  margin: auto;
+  margin-right: 0;
+}
+.modal .modal-content {
+  height: 735px;
+}
+
+.model-color {
+  color: #542E90;
+}
+
+.bordercart {
+  border: 1px solid #eee;
+}/*# sourceMappingURL=Carts.css.map */

@@ -1,0 +1,70 @@
+$gray-color: #3C3C3B;
+$primary-color: #542E90;
+$secand-color: #E09B00;
+$secondary-color: #fff100;
+$text-color: #575756;
+$color-white: #eee;
+$color-main:#D9D9D9;
+
+.footer {
+    background-color: $gray-color;
+
+    .logoimages {
+        width: 220px;
+        height: 57px;
+    }
+
+    .footertext-color {
+        color: $color-white;
+
+    }
+
+    .title {
+        width: 95%;
+        text-align: left;
+        border-right: 1px solid #aaa;
+    }
+
+
+
+    .btn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+
+        background: $secondary-color 0% 0% no-repeat padding-box;
+        border-radius: 19px;
+
+        .icon {
+            position: absolute;
+            top: 17px;
+            right: 20px;
+            bottom: 0;
+            width: 21px;
+            height: 21px;
+            list-style: none;
+        }
+    }
+
+    ul li {
+        list-style: none;
+        color: $color-white;
+        line-height: 2.5;
+    }
+
+    .list li {
+        border-right: 1px solid #aaa;
+
+    }
+
+    .icon-social li {
+        padding: 5px;
+
+    }
+    .main{
+        border-top: 1px solid #aaa;
+ 
+    }
+
+}

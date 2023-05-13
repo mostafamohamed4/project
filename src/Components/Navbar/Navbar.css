@@ -1,0 +1,23 @@
+.bg-main {
+  background-color: #fff100;
+}
+
+.bg-frist {
+  color: #F11133;
+}
+
+.imgsearch {
+  position: absolute;
+  top: 10px;
+  font-weight: 600;
+  width: 20px;
+  left: 18px;
+}
+
+.textsearch {
+  position: absolute;
+  top: 5px;
+  width: 69px;
+  font-weight: 600;
+  left: 42px;
+}/*# sourceMappingURL=Navbar.css.map */

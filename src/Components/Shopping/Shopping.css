@@ -1,0 +1,72 @@
+.text-color {
+  color: #575756;
+}
+
+.rating-color {
+  color: #E09B00;
+}
+
+.primary-bg {
+  background-color: #542E90;
+}
+
+.primary-color {
+  color: #542E90;
+}
+
+.rating-bg {
+  background-color: #fff100;
+}
+
+.shopping .size {
+  border-top: 2px solid #eee;
+}
+.shopping .size .sizeing {
+  background: white 0% 0% no-repeat padding-box;
+  border: 0.5px solid #D9D9D9;
+  border-radius: 40px;
+  width: 70px;
+  height: 70px;
+}
+.shopping .size .sizeing:hover {
+  background: #eee;
+}
+.shopping .color {
+  border-top: 2px solid #eee;
+}
+.shopping .color .coloring {
+  border: 1px solid #542E90;
+  border-radius: 40px;
+  opacity: 1;
+  width: 80px;
+  height: 80px;
+  background: #eee;
+}
+.shopping .Quantity {
+  border-top: 2px solid #eee;
+}
+.shopping .Quantity .bord {
+  background: #F5F5F5 0% 0% no-repeat padding-box;
+  border: 0.5px solid #D9D9D9;
+  border-radius: 24px;
+  opacity: 1;
+  width: 252px;
+  height: 48px;
+}
+.shopping .Quantity .icon {
+  background: #fff100 0% 0% no-repeat padding-box;
+  opacity: 1;
+  width: 37px;
+  border: 0;
+  height: 37px;
+}
+.shopping .Quantity .btn {
+  width: 252px;
+  height: 54px;
+  background-color: #542E90;
+}
+.shopping .Quantity .btn1 {
+  width: 252px;
+  height: 54px;
+  background-color: #fff100;
+}/*# sourceMappingURL=Shopping.css.map */

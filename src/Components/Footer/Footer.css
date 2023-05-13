@@ -1,0 +1,46 @@
+.footer {
+  background-color: #3C3C3B;
+}
+.footer .logoimages {
+  width: 220px;
+  height: 57px;
+}
+.footer .footertext-color {
+  color: #eee;
+}
+.footer .title {
+  width: 95%;
+  text-align: left;
+  border-right: 1px solid #aaa;
+}
+.footer .btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff100 0% 0% no-repeat padding-box;
+  border-radius: 19px;
+}
+.footer .btn .icon {
+  position: absolute;
+  top: 17px;
+  right: 20px;
+  bottom: 0;
+  width: 21px;
+  height: 21px;
+  list-style: none;
+}
+.footer ul li {
+  list-style: none;
+  color: #eee;
+  line-height: 2.5;
+}
+.footer .list li {
+  border-right: 1px solid #aaa;
+}
+.footer .icon-social li {
+  padding: 5px;
+}
+.footer .main {
+  border-top: 1px solid #aaa;
+}/*# sourceMappingURL=Footer.css.map */

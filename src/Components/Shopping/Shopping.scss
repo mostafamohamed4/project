@@ -1,0 +1,101 @@
+$primary-color: #542E90;
+$secand-color: #E09B00;
+$secondary-color: #fff100;
+$text-color: #575756;
+$color-white: #eee;
+$color-main:#D9D9D9;
+
+.text-color {
+    color: $text-color;
+}
+
+.rating-color {
+    color: $secand-color;
+}
+
+.primary-bg {
+    background-color: $primary-color;
+}
+.primary-color {
+    color: $primary-color;
+}
+
+.rating-bg {
+    background-color: $secondary-color;
+}
+
+.shopping {
+
+
+    .size {
+
+        border-top: 2px solid $color-white;
+
+        .sizeing {
+            background: #ffff 0% 0% no-repeat padding-box;
+            border: 0.5px solid $color-main;
+            border-radius: 40px;
+            width: 70px;
+            height: 70px;
+        }
+
+        .sizeing:hover {
+            background: $color-white;
+
+        }
+    }
+
+
+    .color {
+        border-top: 2px solid $color-white;
+
+        .coloring {
+            border: 1px solid $primary-color;
+            border-radius: 40px;
+            opacity: 1;
+            width: 80px;
+            height: 80px;
+            background: $color-white;
+        }
+    }
+
+    .Quantity {
+        border-top: 2px solid $color-white  ;
+
+        .bord {
+            background: #F5F5F5 0% 0% no-repeat padding-box;
+            border: 0.5px solid $color-main;
+            border-radius: 24px;
+            opacity: 1;
+            width: 252px;
+            height: 48px;
+        }
+
+        .icon {
+            background: $secondary-color 0% 0% no-repeat padding-box;
+            opacity: 1;
+            width: 37px;
+            border: 0;
+            height: 37px;
+        }
+
+        .btn {
+            width: 252px;
+            height: 54px;
+            background-color: $primary-color;
+        }
+        .btn1 {
+            width: 252px;
+            height: 54px;
+            background-color: $secondary-color;
+        }
+
+    }
+}
+
+// .d {
+//     text-align: left;
+//     letter-spacing: 0px;
+//     color: $primary-color;
+//     opacity: 1;
+// }
